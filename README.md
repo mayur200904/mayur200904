@@ -10,9 +10,9 @@
 
 ### About Me
 
-I'm an **AI Engineer at WovV Technologies**, Pune, building production agentic AI pipelines — not toy demos. B.E. in AI & ML from Savitribai Phule Pune University (2026). My work sits at the intersection of LLM orchestration, automation infra, and shipping things that don't fall over in production.
+I'm an **AI Engineer at I Knowledge Factory**, Pune, building production agentic AI pipelines — not toy demos. B.E. in AI & ML from Savitribai Phule Pune University (2026). My work sits at the intersection of LLM orchestration, automation infra, and shipping things that don't fall over in production.
 
-- 🔭 Currently building agentic pipelines, RAG systems, and MCP-based integrations at WovV
+- 🔭 Currently building agentic pipelines, RAG systems, and MCP-based integrations at IKF
 - 🏠 Running **Hermes** — my self-hosted personal AI agent on a Mac Mini, wired into WhatsApp, Telegram, Gmail, Slack, and Google Drive
 - 🧠 Deep in LangChain / LangGraph / FastAPI / n8n territory
 - 🎯 Actively exploring new AI Engineer roles
