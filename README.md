@@ -10,9 +10,9 @@
 
 ### About Me
 
-I'm an **AI Engineer at I Knowledge Factory**, Pune, building production agentic AI pipelines — not toy demos. B.E. in AI & ML from Savitribai Phule Pune University (2026). My work sits at the intersection of LLM orchestration, automation infra, and shipping things that don't fall over in production.
+I'm an **AI Engineer at WovV Technologies**, Pune, building production agentic AI pipelines — not toy demos. B.E. in AI & ML from Savitribai Phule Pune University (2026). My work sits at the intersection of LLM orchestration, automation infra, and shipping things that don't fall over in production.
 
-- 🔭 Currently building agentic pipelines, RAG systems, and MCP-based integrations at IKF
+- 🔭 Currently building agentic pipelines, RAG systems, and MCP-based integrations at WovV
 - 🏠 Running **Hermes** — my self-hosted personal AI agent on a Mac Mini, wired into WhatsApp, Telegram, Gmail, Slack, and Google Drive
 - 🧠 Deep in LangChain / LangGraph / FastAPI / n8n territory
 - 🎯 Actively exploring new AI Engineer roles
@@ -60,13 +60,20 @@ I'm an **AI Engineer at I Knowledge Factory**, Pune, building production agentic
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayur200904&show_icons=true&theme=radical&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayur200904&theme=radical&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur200904&layout=compact&theme=radical&hide_border=true"/>
-</p>
+<!-- The contribution-stats and top-langs cards from github-readme-stats.vercel.app are removed
+here on purpose: the official public instance has been broken since the Vercel sponsorship ended
+(tracked at github.com/anuraghazra/github-readme-stats/issues/4671), and there's no working
+public mirror to fall back to — self-hosted instances belong to individual accounts, they're not
+shareable. To get those cards back, self-host your own free instance:
+  1. Fork anuraghazra/github-readme-stats on GitHub
+  2. Deploy the fork to your own Vercel account (vercel.com/new)
+  3. Once deployed, add these two lines back in, replacing YOUR-VERCEL-DOMAIN:
+     <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=mayur200904&show_icons=true&theme=radical&hide_border=true" height="165"/>
+     <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=mayur200904&layout=compact&theme=radical&hide_border=true"/>
+-->
 
 ---
 
