@@ -63,19 +63,7 @@ I'm an **AI Engineer at I Knowledge Factory**, Pune, building production agentic
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayur200904&theme=radical&hide_border=true" height="165"/>
 </p>
 
-<!-- The contribution-stats and top-langs cards from github-readme-stats.vercel.app are removed
-here on purpose: the official public instance has been broken since the Vercel sponsorship ended
-(tracked at github.com/anuraghazra/github-readme-stats/issues/4671), and there's no working
-public mirror to fall back to — self-hosted instances belong to individual accounts, they're not
-shareable. To get those cards back, self-host your own free instance:
-  1. Fork anuraghazra/github-readme-stats on GitHub
-  2. Deploy the fork to your own Vercel account (vercel.com/new)
-  3. Once deployed, add these two lines back in, replacing YOUR-VERCEL-DOMAIN:
-     <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=mayur200904&show_icons=true&theme=radical&hide_border=true" height="165"/>
-     <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=mayur200904&layout=compact&theme=radical&hide_border=true"/>
--->
 
----
 
 ### Let's Connect
 
