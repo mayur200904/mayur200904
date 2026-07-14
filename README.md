@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mayur Tarate 👋</h1>
-<h3 align="center">AI Engineer building agentic systems that actually ship</h3>
+<h3 align="center">AI Engineer building agentic systems that actually ship </h3>
 
 <p align="center">
   <a href="https://mayurai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mayurai.vercel.app-000?style=for-the-badge&logo=vercel"/></a>
