@@ -67,7 +67,7 @@ I'm an **AI Engineer at I Knowledge Factory**, Pune, building production agentic
 
 ### Let's Connect
 
-I'm open to conversations about agentic AI, RAG systems, LLM infra, or AI Engineer roles. Reach out via [my portfolio](https://mayurai.vercel.app) or LinkedIn.
+I'm open to conversations about agentic AI, RAG systems, LLM infra, or AI Engineer roles. Reach out via [my portfolio/email](https://mayurai.vercel.app)/(mtarate2004@gmail.com) or LinkedIn.
 
 <!---
 mayur200904/mayur200904 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
