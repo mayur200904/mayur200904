@@ -57,13 +57,16 @@ I'm an **AI Engineer at I Knowledge Factory**, Pune, building production agentic
 - 🔌 Production two-agent lead management pipeline (n8n + Gemini) live in a real business
 
 ---
-
-### GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayur200904&theme=radical&hide_border=true" height="165"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mayur200904&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur200904&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mayur200904&theme=tokyonight&hide_border=true"/>
+</p>
 
 
 ### Let's Connect
