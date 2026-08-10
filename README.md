@@ -14,7 +14,7 @@ I'm an **AI Engineer at I Knowledge Factory**, Pune, building production agentic
 
 - 🔭 Currently building agentic pipelines, RAG systems, and MCP-based integrations at IKF
 - 🏠 Running **Hermes** — my self-hosted personal AI agent on a Mac Mini, wired into WhatsApp, Telegram, Gmail, Slack, and Google Drive
-- 🧠 Deep in LangChain / LangGraph / FastAPI / n8n territory
+- 🧠 Deep in LangChain / LangGraph / FastAPI / n8n territory 
 - 🎯 Actively exploring new AI Engineer roles
 - 🎮 Side interest: Pygame-based mobile game dev
 
@@ -49,6 +49,7 @@ I'm an **AI Engineer at I Knowledge Factory**, Pune, building production agentic
 ### What I've Been Building
 
 - 🤖 **Hermes** — a self-hosted personal AI agent (Mac Mini) with cross-platform integrations across WhatsApp, Telegram, Gmail, Slack, and Calendar
+- 🤖 **IKF Coach** - a Internal IKF chatbot with neosapien to coach every employee in the organisation with coaching insights and email delivery for everyday.
 - 📧 **Yahoo Mail MCP Connector** — OAuth-based email connector deployed on Render.com for team use
 - 🎙️ **Alexis (Voice Agent)** — built with ElevenLabs/SarvamAI pipelines for AI masterclass outreach
 - 🛠️ **AI Email Ticketing System** — LangGraph architecture with competitive research and phased build roadmap
