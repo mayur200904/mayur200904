@@ -48,7 +48,7 @@ I'm an **AI Engineer at I Knowledge Factory**, Pune, building production agentic
 
 ### What I've Been Building
 
-- 🤖 **Hermes** — a self-hosted personal AI agent (Mac Mini) with cross-platform integrations across WhatsApp, Telegram, Gmail, Slack, and Calendar
+- 🤖 **[Hermes](https://hermes-agent.nousresearch.com/)** — a self-hosted personal AI agent (Mac Mini) with cross-platform integrations across WhatsApp, Telegram, Gmail, Slack, and Calendar
 - 🤖 **[IKF Coach](https://coach.ikf.solutions)** - a Internal IKF chatbot with neosapien to coach every employee in the organisation with coaching insights and email delivery for everyday.
 - 📧 **Yahoo Mail MCP Connector** — OAuth-based email connector deployed on Render.com for team use
 - 🎙️ **Alexis (Voice Agent)** — built with ElevenLabs/SarvamAI pipelines for AI masterclass outreach
