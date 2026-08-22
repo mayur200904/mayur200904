@@ -55,7 +55,7 @@ I'm an **AI Engineer at I Knowledge Factory**, Pune, building production agentic
 - 🛠️ **AI Email Ticketing System** — LangGraph architecture with competitive research and phased build roadmap
 - 📬 **InboxIQ** — AI-powered inbound email management platform (Next.js 14, FastAPI, Supabase, Celery/Redis, GPT-4o)
 - 🎥 **Code Narrator** — AI-powered GitHub repository → video tutorial generator (final-year project)
-- 🔌 Production two-agent lead management pipeline (n8n + Gemini) live in a real business
+- 🔌 Production two-agent lead management pipeline (n8n + Gemini) live in a real businesses
 
 ---
 
