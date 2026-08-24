@@ -17,7 +17,6 @@ I'm an **AI Engineer at I Knowledge Factory**, Pune, building production agentic
 - 🧠 Deep in LangChain / LangGraph / FastAPI / n8n territory 
 - 🎯 Actively exploring new AI Engineer roles
 - 🎮 Side interest: Pygame-based mobile game dev
-
 ---
 
 ### Tech Stack
