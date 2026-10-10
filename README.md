@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Mayur Tarate 👋😎</h1>
+<h1 align="center">Hello, I'm Mayur Tarate 👋😎 </h1>
 <h3 align="center">AI Engineer building agentic systems that actually ship for Today's World </h3>
 
 <p align="center">
