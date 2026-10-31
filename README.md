@@ -18,7 +18,6 @@ I'm an **AI Engineer at I Knowledge Factory**, Pune, building production agentic
 - 🎯 Actively exploring new AI Engineer roles
 - 🎮 Side interest: Pygame-based mobile game dev
 ---
-
 ### Tech Stack
 
 **Languages & Frameworks**
