@@ -8,7 +8,6 @@
 </p>
 
 ---
-
 ### About Me
 
 I'm an **AI Engineer at I Knowledge Factory**, Pune, building production agentic AI pipelines — not toy demos. B.E. in AI & ML from Savitribai Phule Pune University (2026). My work sits at the intersection of LLM orchestration, automation infra, and shipping things that don't fall over in production.
